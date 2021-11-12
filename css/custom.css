@@ -1,3 +1,9 @@
+body {
+    background: black;
+}
+
 .masthead {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
 }
