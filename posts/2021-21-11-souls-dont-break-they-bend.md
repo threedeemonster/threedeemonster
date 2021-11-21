@@ -6,5 +6,4 @@ author: threedeemonster
 ---
 
 [Doomsday - Architects](https://www.youtube.com/watch?v=RvWbcK3YQ_o)
-
 ![Image](https://threedeemonster.mo.cloudinary.net/assets/mqdefault_6s.webp)
