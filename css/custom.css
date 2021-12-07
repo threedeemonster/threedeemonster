@@ -2,6 +2,14 @@ body {
     background: black;
 }
 
+email a {
+    color: #a32568;
+}
+
+.footer {
+    text-align: center;
+}
+
 .masthead {
     display: flex;
     justify-content: center;
