@@ -42,9 +42,9 @@
         <a href="#" class="sitename" title="Home">
           <img src="./assets/threedeemonsterlogo.png">
         </a>
-        <small class="tagline">
+        <span title="threedeemonster" class="tagline">
           threedeemonster
-        </small>
+        </span>
         </h3>
         <!-- Navigation -->
         <!-- <nav class="nav">
@@ -85,14 +85,14 @@
             random_ascii = Math.floor((Math.random() * (ascii_high - ascii_low)) + ascii_low);
             random_string += String.fromCharCode(random_ascii);
         }
-        const emailLink = `<a href='mailto:${random_string}@threedeemonster.com'>${random_string}@threedeemonster.com</a>`;
+        const emailLink = `<a href='mailto:${random_string}@threedeemonster.com'><span class='randomness'>${random_string}</span>@threedeemonster.com</a>`;
         emailContainer.innerHTML = emailLink;
       }
 
-        generate_random_string(5);
+        generate_random_string(4);
 
         setInterval(() => {
-          generate_random_string(5);
+          generate_random_string(4);
         }, 500);
       </script>
   </body>
