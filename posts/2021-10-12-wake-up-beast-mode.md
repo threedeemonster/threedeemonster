@@ -6,4 +6,4 @@ author: threedeemonster
 ---
 
 [Pump It - Eskimo Callboy](https://www.youtube.com/watch?v=OnzkhQsmSag)
-![Image](https://threedeemonster.mo.cloudinary.net/assets/pump-it.webp)
+![Image](/assets/pump-it.webp)
