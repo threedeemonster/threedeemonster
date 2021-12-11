@@ -13,6 +13,11 @@ email a .randomness {
     vertical-align: middle;
 }
 
+#cms {
+  max-height: 80vh;
+  overflow: auto;
+}
+
 .sitename img {
     max-height: 50px;
 }
