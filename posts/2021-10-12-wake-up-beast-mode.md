@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wake Up, Beast Mode
-tags: music, eskimo callboy, pump it
+tags: music, electric callboy, pump it
 author: threedeemonster
 ---
 
-[Pump It - Eskimo Callboy](https://www.youtube.com/watch?v=OnzkhQsmSag)
+[Pump It - Electric Callboy](https://www.youtube.com/watch?v=OnzkhQsmSag)
 ![Image](https://threedeemonster.mo.cloudinary.net/assets/pump-it.webp)
