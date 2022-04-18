@@ -14,7 +14,7 @@ email a .randomness {
 }
 
 #cms {
-  max-height: 80vh;
+  max-height: calc(100vh - 160px);
   overflow: auto;
 }
 
@@ -32,7 +32,7 @@ email a .randomness {
 
 @media screen and (max-width: 600px) {
     .tagline {
-        font-size: 34px;
+        font-size: 32px;
         margin-left: 16px;
         margin-top: 4px;
     }
