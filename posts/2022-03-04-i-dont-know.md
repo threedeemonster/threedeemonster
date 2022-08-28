@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Admit you don't know anything and give it up
-tags: virtual reality, spirituality, dredg
+tags: virtual reality, spirituality, dredg, music
 author: threedeemonster
 ---
 
