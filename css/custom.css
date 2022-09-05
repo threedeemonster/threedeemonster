@@ -13,6 +13,10 @@ email a .randomness {
     vertical-align: middle;
 }
 
+.post-content img {
+  max-width: 50%;
+}
+
 #cms {
   max-height: calc(100vh - 160px);
   overflow: auto;
