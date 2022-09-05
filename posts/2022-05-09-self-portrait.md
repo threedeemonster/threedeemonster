@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self portrait
-tags: art, ai
+tags: art, ai, portrait
 author: threedeemonster
 ---
 
